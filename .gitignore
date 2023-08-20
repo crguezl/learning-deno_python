@@ -1,0 +1,12 @@
+# TypeScript
+*.tsbuildinfo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+
+# JS
+node_modules

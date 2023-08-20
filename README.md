@@ -1,6 +1,7 @@
 # Learning deno_python
 
-The first probel was to tell `deno_python` where to find the Python interpreter:
+The first problem was to tell `deno_python` where to find the Python interpreter, since I am using `pyenv` to manage my Python versions:
+
 ```
 ➜  deno_python pyenv version
 3.11.4 (set by /Users/casianorodriguezleon/.pyenv/version)

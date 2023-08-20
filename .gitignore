@@ -8,5 +8,7 @@ __pycache__/
 *.pyd
 *.pyw
 
-# JS
-node_modules
+# JavaScript
+node_modules/
+*.log
+*.lock

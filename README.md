@@ -38,6 +38,8 @@ Matplotlib is building the font cache; this may take a moment.
 2023-08-20 11:38:41.479 deno[17398:76256] +[CATransaction synchronize] called within transaction
 ```
 
+![](Figure_1.png)
+
 ## deno_python README
 
 [![deno doc](https://doc.deno.land/badge.svg)](https://doc.deno.land/https/deno.land/x/python/mod.ts)

@@ -41,8 +41,6 @@ Matplotlib is building the font cache; this may take a moment.
 ## deno_python README
 
 [![deno doc](https://doc.deno.land/badge.svg)](https://doc.deno.land/https/deno.land/x/python/mod.ts)
-[![checks](https://github.com/denosaurs/deno_python/actions/workflows/checks.yml/badge.svg)](https://github.com/denosaurs/deno_python/actions/workflows/checks.yml)
-[![License](https://img.shields.io/github/license/denosaurs/deno_python)](https://github.com/denosaurs/deno_python/blob/master/LICENSE)
 
 This module provides a seamless integration between deno and python by
 integrating with the [Python/C API](https://docs.python.org/3/c-api/index.html).
